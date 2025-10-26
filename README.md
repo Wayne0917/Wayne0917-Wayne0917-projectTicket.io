@@ -21,3 +21,9 @@
 使用 C3.js 視覺化呈現地區比例
 
 無符合結果時顯示提示訊息
+
+## 📂 安裝與執行方式
+
+1. Clone 專案：
+   ```bash
+   git clone https://github.com/Wayne0917/Wayne0917-Wayne0917-projectTicket.io.git
