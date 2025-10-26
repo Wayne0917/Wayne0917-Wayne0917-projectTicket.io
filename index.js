@@ -35,12 +35,10 @@ async function getBackendData() {
         const response = await axios.get(api)
             data = response.data;
             renderData(data);
-            renderChart(getChartData(data));
-            console.log(data);
-            
+            renderChart(getChartData(data));            
     } 
     catch (error) {
-        console.error(`API error: ${error.message}`)
+        console.error(`getBackendDataAPI error: ${error.message}`)
     }
 }
 getBackendData();
