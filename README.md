@@ -21,5 +21,3 @@
 使用 C3.js 視覺化呈現地區比例
 
 無符合結果時顯示提示訊息
-
-採用 Model / View / Controller 模組化架構
